@@ -15,5 +15,8 @@ References include:
 -	N-channel, p-channel MOSFET and TRIAC
 -	Resistor colour code
 
-<img src="https://raw.githubusercontent.com/a3alamgi/PCB_Reference_Ruler/master/images/ruler.jpg"/>  
-Figure 1: Board layout
+<img src="https://raw.githubusercontent.com/a3alamgi/PCB_Reference_Ruler/master/images/ruler_front.jpg"/>  
+Figure 1: Front Board layout
+
+<img src="https://raw.githubusercontent.com/a3alamgi/PCB_Reference_Ruler/master/images/ruler_back.jpg"/>  
+Figure 2: Back Board layout
